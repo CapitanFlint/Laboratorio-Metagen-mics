@@ -1,2 +1,15 @@
-# Laboratorio-Metagen-mics
-Laboratorio 5
+# Laboratorio Metagenómica
+
+----
+
+
+
+Bruno Romero
+
+
+----
+
+
+
+
+
