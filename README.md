@@ -12,7 +12,7 @@ Bruno Romero
 
 
 
-__R:__ `Fueron subidas 120,671 secuencias, de las cuales suman un total de 129,781,299 pares de bases, con un promedio de 1,075 de pares de bases de longitud`.
+__R:__ `Fueron subidas 120,671 secuencias, de las cuales suman un total de 129,781,299 pares de bases, con un promedio de 1,075 de pares de bases de longitud`. [1-2]
 
 
 
@@ -20,7 +20,7 @@ __R:__ `Fueron subidas 120,671 secuencias, de las cuales suman un total de 129,7
 
 
 
-__R:__
+__R:__ `Se utilizó AB3730xl para extender los reads, y automated cycle sequencing para el procedimiento general (Applied Biosystems). ` [3]
 
 
 
@@ -28,7 +28,7 @@ __R:__
 
 
 
-__R:__
+__R:__ `Hay 236 metagenomas disponibles para el bioma marine habitat` [4]
 
 
 
@@ -81,3 +81,7 @@ __R:__
 
 
 [3] http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050077#s4
+
+
+[4] http://metagenomics.anl.gov/mgmain.html?mgpage=search&search=dirty%20rock
+
