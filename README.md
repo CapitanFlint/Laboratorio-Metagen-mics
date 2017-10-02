@@ -12,7 +12,7 @@ Bruno Romero
 
 
 
-__R:__ `esta es la respuesta 1 `.
+__R:__ `Fueron subidas 120,671 secuencias, de las cuales suman un total de 129,781,299 pares de bases, con un promedio de 1,075 de pares de bases de longitud`.
 
 
 
@@ -64,3 +64,14 @@ __R:__
 
 
 .
+
+
+
+
+
+
+# Bibliografía
+
+[1] http://metagenomics.anl.gov/mgmain.html?mgpage=project&project=mgp27
+[2] http://metagenomics.anl.gov/mgmain.html?mgpage=overview&metagenome=mgm4441593.3
+[3] http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050077#s4
