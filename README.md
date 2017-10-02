@@ -44,7 +44,7 @@ __R:__
 
 
 
-__R:__
+__R:__ `el filum más abundante es el de _Cianobacteria_, que posee cerca del 30 % del total`.
 
 
 
