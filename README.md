@@ -7,6 +7,12 @@ Bruno Romero
 ----
 
 
+# Parte 1: Plataforma MG-RAST y exploración de metagenomas
+
+
+----
+
+
 
 #### ¿Cuántas secuencias fueron subidas? 
 
@@ -63,9 +69,15 @@ __R:__ `A 7960 secuencias `.
 __R:__ `Porque SwissProt es una base de datos curada, por lo que los datos generados por metagenómica suelen ser muchísimos y esto genera que las bases de datos curadas tengan menos secuencias almacenadas debido a que el proceso de curación es más lento y requiere pasos extras `.
 
 
-.
 
-.
+
+# Parte 2: Análisis de metagenomas
+
+
+----
+
+
+
 
 
 
