@@ -72,6 +72,12 @@ __R:__
 
 # Bibliografía
 
+----
+
 [1] http://metagenomics.anl.gov/mgmain.html?mgpage=project&project=mgp27
+
+
 [2] http://metagenomics.anl.gov/mgmain.html?mgpage=overview&metagenome=mgm4441593.3
+
+
 [3] http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0050077#s4
