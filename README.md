@@ -1,13 +1,13 @@
 # Laboratorio Metagenómica
 
 
-Bruno Romero
+__Bruno Romero__
 
 
 ----
 
 
-# Parte 1: Plataforma MG-RAST y exploración de metagenomas
+### Parte 1: Plataforma MG-RAST y exploración de metagenomas
 
 
 ----
@@ -71,13 +71,22 @@ __R:__ `Porque SwissProt es una base de datos curada, por lo que los datos gener
 
 
 
-# Parte 2: Análisis de metagenomas
+### Parte 2: Análisis de metagenomas
 
 
 ----
 
+#### ¿Cuántas secuencias mapearon en contra de Proteobacteria? (Usa la opción Redraw para usar reads en vez de proporciones (raw)) 
 
 
+__R:__ `26387 secuencias se mapearon sobre proteobacterias `.
+
+
+
+#### ¿Cuántas secuencias de Salmonella ( Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae) fueron identificadas?
+
+
+__R:__ `77 secuencias fueron identificadas de Salmonella, 12554 de Gammaproteobacteria, 1058 secuencias de Enterobacterias y 1058 para enterobacteriaceae. `
 
 
 
