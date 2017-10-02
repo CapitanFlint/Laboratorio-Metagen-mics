@@ -1,13 +1,13 @@
 # Laboratorio Metagenómica
 
-----
-
-
 
 Bruno Romero
 
 
 ----
+
+
+
 
 
 
