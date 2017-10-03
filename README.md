@@ -26,7 +26,7 @@ __R:__ `Fueron subidas 120,671 secuencias, de las cuales suman un total de 129,7
 
 
 
-__R:__ `Se utilizó AB3730xl para extender los reads, y automated cycle sequencing para el procedimiento general (Applied Biosystems). ` [3]
+__R:__ `Se utilizó AB3730xl para extender los reads, y automated cycle sequencing para el procedimiento general (Applied Biosystems). [3]. Además, todas las secuencias pasaron el control de calidad, ya que poseen QC 0%.`
 
 
 
