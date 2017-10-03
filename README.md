@@ -42,7 +42,7 @@ __R:__ `Hay 236 metagenomas disponibles para el bioma marine habitat` [4]
 
 
 
-__R:__
+__R:__ `Se encontraron 20.128 reads. Aunque sin embargo pienso que es un numero muy bajo, por lo cual es probable de que el número de reads real esté en análisis, pero no supe como utilizar muy bien esa herramienta `.
 
 
 
